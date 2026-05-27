@@ -19,13 +19,13 @@ const contactInfo = [
   {
     icon: "⌥",
     label: "GitHub",
-    value: "github.com/yourusername",
+    value: "github.com/50RISHU",
     href: personal.socials.github,
   },
   {
     icon: "in",
     label: "LinkedIn",
-    value: "linkedin.com/in/yourname",
+    value: "linkedin.com/in/rishu-s-30b929377",
     href: personal.socials.linkedin,
   },
   { icon: "📍", label: "Location", value: personal.location, href: null },

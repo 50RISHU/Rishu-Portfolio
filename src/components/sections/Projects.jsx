@@ -254,7 +254,7 @@ export default function Projects() {
         <motion.div {...fadeUp(0.3)} style={{
           marginTop: "56px", textAlign: "center",
         }}>
-          <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer"
+          <a href="https://github.com/50RISHU" target="_blank" rel="noopener noreferrer"
             style={{
               display: "inline-flex", alignItems: "center", gap: "8px",
               fontFamily: "'JetBrains Mono', monospace", fontSize: "0.8rem",

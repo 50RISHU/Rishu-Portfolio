@@ -10,13 +10,13 @@ const fadeUp = (delay = 0) => ({
 });
 
 const stats = [
-  { value: "3+",  label: "Years Experience" },
-  { value: "20+", label: "Projects Shipped" },
-  { value: "10+", label: "Happy Clients"    },
-  { value: "5+",  label: "Open Source Contributions" },
+  { value: "1+",  label: "Years Experience" },
+  { value: "6+", label: "Projects Shipped" },
+  { value: "N/A", label: ""    },
+  { value: "3+",  label: "Open Source Contributions" },
 ];
 
-const traits = ["Clean Code", "Fast Learner", "Team Player", "Detail Oriented", "Problem Solver"];
+const traits = ["Clean Code", "Fast Learner", "Team Player", "Open Source Enthusiast", "Problem Solver"];
 
 export default function About() {
   const [imgError, setImgError] = useState(false);
