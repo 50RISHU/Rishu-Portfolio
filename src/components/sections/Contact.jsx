@@ -203,7 +203,7 @@ export default function Contact() {
     setStatus("sending");
     /* ── swap this fetch for EmailJS / Formspree ── */
     // Formspree (free, no backend)
-    await fetch("https://formspree.io/f/YOUR_ID", {
+    await fetch("https://formspree.io/f/xpqnjkvv", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(form),
