@@ -34,7 +34,7 @@ A modern, responsive portfolio website built with React, Vite, and Tailwind CSS.
 - **Code Quality**: ESLint 10
 
 
-```
+
 
 ## 📄 License
 
