@@ -10,8 +10,6 @@
     <img src="https://img.shields.io/badge/React-19-blue?style=flat-square&logo=react" alt="React">
     <img src="https://img.shields.io/badge/Vite-8-646CFF?style=flat-square&logo=vite" alt="Vite">
     <img src="https://img.shields.io/badge/Tailwind_CSS-4.3-38B2AC?style=flat-square&logo=tailwind-css" alt="Tailwind CSS">
-    <img src="https://img.shields.io/badge/Framer_Motion-12.4-0055FF?style=flat-square&logo=framer" alt="Framer Motion">
-    <img src="https://img.shields.io/badge/EmailJS-4.4-EA4335?style=flat-square&logo=javascript" alt="EmailJS">
     <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License: MIT">
   </div>
 
