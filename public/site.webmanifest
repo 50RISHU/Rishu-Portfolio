@@ -1,0 +1,12 @@
+{
+  "name": "Rishu — Portfolio",
+  "short_name": "Rishu",
+  "description": "Full Stack Developer Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e0e10",
+  "theme_color": "#f59e0b",
+  "icons": [
+    { "src": "/logo.png", "sizes": "any", "type": "image/png" }
+  ]
+}
